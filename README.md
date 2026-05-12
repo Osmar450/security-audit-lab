@@ -235,3 +235,6 @@ Este código es exclusivamente para aprendizaje en entorno controlado.
 
 **Última actualización:** 29 de Abril de 2026
 **Versión:** 1.0.0
+
+## An�lisis de seguridad
+Proyecto analizado con SonarCloud.
